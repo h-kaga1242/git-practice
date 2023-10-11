@@ -1,3 +1,4 @@
 hoge
 aiueo
 hoge
+japan
